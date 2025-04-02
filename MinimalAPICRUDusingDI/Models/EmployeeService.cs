@@ -1,5 +1,5 @@
 ﻿
-namespace MinimalApiCRUD.Models
+namespace MinimalAPICRUDusingDI.Models
 {
     public class EmployeeService : IEmployeeService
     {

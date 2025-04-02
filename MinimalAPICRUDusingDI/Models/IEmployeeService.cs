@@ -1,4 +1,4 @@
-﻿namespace MinimalApiCRUD.Models
+﻿namespace MinimalAPICRUDusingDI.Models
 {
     public interface IEmployeeService
     {

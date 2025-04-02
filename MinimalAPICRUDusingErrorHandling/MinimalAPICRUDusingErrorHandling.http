@@ -1,0 +1,6 @@
+@MinimalAPICRUDusingErrorHandling_HostAddress = http://localhost:5217
+
+GET {{MinimalAPICRUDusingErrorHandling_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

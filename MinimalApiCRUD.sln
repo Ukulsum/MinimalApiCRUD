@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApiCRUD", "MinimalApiCRUD\MinimalApiCRUD.csproj", "{80F0FC5C-64ED-4EE0-9491-11D298DB29E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPICRUDusingDI", "MinimalAPICRUDusingDI\MinimalAPICRUDusingDI.csproj", "{98DD67D0-5E4A-4851-A8C5-577E84226C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPICRUDusingErrorHandling", "MinimalAPICRUDusingErrorHandling\MinimalAPICRUDusingErrorHandling.csproj", "{2DE96D79-69F9-45D6-AAEB-BFDF3E272B83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{80F0FC5C-64ED-4EE0-9491-11D298DB29E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F0FC5C-64ED-4EE0-9491-11D298DB29E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F0FC5C-64ED-4EE0-9491-11D298DB29E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DD67D0-5E4A-4851-A8C5-577E84226C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DD67D0-5E4A-4851-A8C5-577E84226C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DD67D0-5E4A-4851-A8C5-577E84226C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DD67D0-5E4A-4851-A8C5-577E84226C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE96D79-69F9-45D6-AAEB-BFDF3E272B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE96D79-69F9-45D6-AAEB-BFDF3E272B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE96D79-69F9-45D6-AAEB-BFDF3E272B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE96D79-69F9-45D6-AAEB-BFDF3E272B83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
